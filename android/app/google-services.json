@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612386875770",
+    "project_id": "agrovision-ai-21004",
+    "storage_bucket": "agrovision-ai-21004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612386875770:android:97b4d0c195b3f3814c4ec3",
+        "android_client_info": {
+          "package_name": "com.example.agrinova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtGXdBQmm0pZbbGjekTx0u21fwyKFitU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
